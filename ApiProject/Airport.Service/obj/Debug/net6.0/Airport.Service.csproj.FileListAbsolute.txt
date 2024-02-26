@@ -1,0 +1,34 @@
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.csproj.AssemblyReference.cache
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.AssemblyInfoInputs.cache
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.AssemblyInfo.cs
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.csproj.CoreCompileInputs.cache
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Service.deps.json
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Service.dll
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Service.pdb
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Aairport.Data.dll
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Core.dll
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Aairport.Data.pdb
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Core.pdb
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.csproj.CopyComplete
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.dll
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\refint\Airport.Service.dll
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.pdb
+Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\ref\Airport.Service.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Service.deps.json
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Service.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Service.pdb
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Aairport.Data.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Core.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Aairport.Data.pdb
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\bin\Debug\net6.0\Airport.Core.pdb
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.csproj.AssemblyReference.cache
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.AssemblyInfoInputs.cache
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.AssemblyInfo.cs
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.csproj.CoreCompileInputs.cache
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.csproj.CopyComplete
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\refint\Airport.Service.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\Airport.Service.pdb
+C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Service\obj\Debug\net6.0\ref\Airport.Service.dll

@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\אביטל\\.nuget\\packages\\": {},
+    "C:\\Users\\talmid1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\אביטל\\Documents\\לימודים\\שנה ב\\c#\\new_api\\ApiProject\\Airport.Core\\Airport.Core.csproj",
+      "projectUniqueName": "Y:\\תשפד\\כיתות ה ו\\קמאטק שנה ב\\אביטל שטיינמץ\\c#\\new_api\\ApiProject\\Airport.Core\\Airport.Core.csproj",
       "projectName": "Airport.Core",
-      "projectPath": "C:\\Users\\אביטל\\Documents\\לימודים\\שנה ב\\c#\\new_api\\ApiProject\\Airport.Core\\Airport.Core.csproj",
-      "packagesPath": "C:\\Users\\אביטל\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\אביטל\\Documents\\לימודים\\שנה ב\\c#\\new_api\\ApiProject\\Airport.Core\\obj\\",
+      "projectPath": "Y:\\תשפד\\כיתות ה ו\\קמאטק שנה ב\\אביטל שטיינמץ\\c#\\new_api\\ApiProject\\Airport.Core\\Airport.Core.csproj",
+      "packagesPath": "C:\\Users\\talmid1\\.nuget\\packages\\",
+      "outputPath": "Y:\\תשפד\\כיתות ה ו\\קמאטק שנה ב\\אביטל שטיינמץ\\c#\\new_api\\ApiProject\\Airport.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\אביטל\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\talmid1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -56,8 +56,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -66,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.313\\RuntimeIdentifierGraph.json"
       }
     }
   }

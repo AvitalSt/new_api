@@ -10,14 +10,3 @@ Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\n
 Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\refint\Airport.Core.dll
 Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\Airport.Core.pdb
 Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\ref\Airport.Core.dll
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\bin\Debug\net6.0\Airport.Core.deps.json
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\bin\Debug\net6.0\Airport.Core.dll
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\bin\Debug\net6.0\Airport.Core.pdb
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\Airport.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\Airport.Core.AssemblyInfoInputs.cache
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\Airport.Core.AssemblyInfo.cs
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\Airport.Core.csproj.CoreCompileInputs.cache
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\Airport.Core.dll
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\refint\Airport.Core.dll
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\Airport.Core.pdb
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Airport.Core\obj\Debug\net6.0\ref\Airport.Core.dll

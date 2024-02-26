@@ -15,20 +15,3 @@ Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\n
 Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\ref\Aairport.Data.dll
 Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Aairport.Data\bin\Debug\net6.0\Aairport.Data.runtimeconfig.json
 Y:\תשפד\כיתות ה ו\קמאטק שנה ב\אביטל שטיינמץ\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.genruntimeconfig.cache
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\bin\Debug\net6.0\Aairport.Data.deps.json
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\bin\Debug\net6.0\Aairport.Data.runtimeconfig.json
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\bin\Debug\net6.0\Aairport.Data.dll
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\bin\Debug\net6.0\Aairport.Data.pdb
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\bin\Debug\net6.0\Airport.Core.dll
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\bin\Debug\net6.0\Airport.Core.pdb
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.csproj.AssemblyReference.cache
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.AssemblyInfoInputs.cache
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.AssemblyInfo.cs
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.csproj.CoreCompileInputs.cache
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.csproj.CopyComplete
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.dll
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\refint\Aairport.Data.dll
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.pdb
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\Aairport.Data.genruntimeconfig.cache
-C:\Users\אביטל\Documents\לימודים\שנה ב\c#\new_api\ApiProject\Aairport.Data\obj\Debug\net6.0\ref\Aairport.Data.dll
